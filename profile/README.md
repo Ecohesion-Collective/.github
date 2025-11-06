@@ -1,4 +1,6 @@
-## Welcome to **Ecohesion Collective**, the research group at the University of Pisa that studies the interactions between climate policies, economic transformations, and redistributive mechanisms.
+## Welcome to [Ecohesion](https://www.ecohesion.it/en/)! 
+
+We are a research group at the University of Pisa that studies the interactions between climate policies, economic transformations, and redistributive mechanisms.
 
 In our repositories you’ll find the main files that support the group’s collaborative work — in particular, the repository for the [Eurogreen](https://github.com/Ecohesion-Collective/Eurogreen) model — along with public replication materials for our research papers.
 
